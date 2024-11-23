@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # Arcane: League of Legends 
 
 **Genre:** Action, Adventure, Animation 
